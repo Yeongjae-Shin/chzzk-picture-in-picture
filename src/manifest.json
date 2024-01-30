@@ -15,6 +15,6 @@
     }
   },
   "permissions": ["scripting", "storage"],
-  "host_permissions": ["https://chzzk.naver.com"],
+  "host_permissions": ["https://chzzk.naver.com/*"],
   "manifest_version": 3
 }
